@@ -1,0 +1,70 @@
+PRIVACY POLICY
+==============
+
+Last Updated: December 1, 2025
+
+drosk.net ("we", "us," or "our") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains our practices regarding data collection and usage for Drosk ("the Software").
+
+Drosk is currently in a closed beta testing phase. The software may contain bugs, errors, or other issues that could affect performance. By participating in the beta, you acknowledge that data collected (including crash reports and usage logs) will be used solely to improve the Service. Drosk is not liable for any damages, data loss, or other issues arising from use of the beta software.
+
+1. LOCAL-FIRST APPROACH
+-----------------------
+Drosk is designed with a local-first philosophy. Your files, recipes, and configurations are stored locally on your device. We do not have access to your files or personal data stored within the application.
+
+2. INFORMATION WE COLLECT
+-------------------------
+a) Crash Reports (Optional)
+   - If you opt-in to crash reporting, we may collect technical information about application crashes to help us improve stability. This includes error messages, stack traces, device type, operating system version, and application version. Crash reports do NOT include your personal files or file contents.
+
+b) Usage Analytics (Optional)
+   - Anonymous usage statistics to understand which features are most valuable.
+   - No personally identifiable information is collected.
+
+3. INFORMATION WE DO NOT COLLECT
+--------------------------------
+- We do NOT collect or access your files or file contents.
+- We do NOT collect your personal contact information unless you voluntarily provide it.
+- We do NOT sell any data to third parties.
+- We do NOT track your browsing activity.
+
+4. FUTURE CLOUD SERVICES
+------------------------
+While Drosk is currently designed with a local-first approach, future versions may offer optional cloud-based features. If you choose to use these features, certain data you select may be transmitted to our servers or trusted cloud providers for processing. Data transmitted will be retained only as long as necessary to provide the requested functionality, and then securely deleted.
+
+Cloud providers we may use include:
+- Amazon Web Services (AWS): https://aws.amazon.com/privacy/
+- Microsoft Azure: https://privacy.microsoft.com/en-us/privacystatement
+- Google Cloud Platform: https://cloud.google.com/terms/cloud-privacy-notice
+
+5. DATA STORAGE
+---------------
+All your data (files, recipes, settings) is stored locally on your device. You have full control over your data and can delete it at any time by uninstalling the application or clearing application data.
+
+6. THIRD-PARTY SERVICES
+-----------------------
+The Software may use the following third-party services:
+- Sentry (crash reporting) – only if you opt-in. Privacy Policy: https://sentry.io/privacy/
+
+7. CHILDREN'S PRIVACY
+---------------------
+Drosk is not directed at children under 13. We do not knowingly collect personal information from children under 13. If we discover that we have collected data from a child under 13, we will delete it promptly.
+
+8. YOUR RIGHTS
+--------------
+You have the right to:
+- Opt-out of crash reporting and analytics at any time.
+- Delete all local data by uninstalling the application.
+- Request information about data we may have collected (if any).
+
+9. CHANGES TO THIS POLICY
+-------------------------
+We may update this Privacy Policy from time to time. We will notify you of any changes by updating the "Last Updated" date at the top of this policy.
+
+10. CONTACT US
+--------------
+If you have any questions about this Privacy Policy, please contact us at:
+privacy@drosk.net
+
+---
+
+Copyright (c) drosk.net 2025. All rights reserved.
